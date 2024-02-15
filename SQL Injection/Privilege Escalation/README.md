@@ -66,3 +66,7 @@ If we see the source-code of the response, we can see our webshell uploaded:
 
 Note: This is a simple PoC, in real-life pentest engagements, you might prefer uploading a proper webshell instead, since it is easier to interact with it.
 
+## Useful links
+
+https://github.com/payloadbox/sql-injection-payload-list?tab=readme-ov-file
+
