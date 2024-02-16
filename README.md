@@ -1,4 +1,4 @@
-# Ethical Hacking
+# Security Box
 In this repo, you'll find some useful information regarding Ethical Hacking. 
 
 ***
