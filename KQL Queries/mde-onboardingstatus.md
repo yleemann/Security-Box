@@ -1,6 +1,6 @@
 # Identify Onboardable Windows Devices with Defender for Endpoint
 
-This Kusto Query Language (KQL) script identifies **Windows devices that are not currently onboarded into Microsoft Defender for Endpoint (MDE)** but have been active recently — making them strong candidates for onboarding.
+This KQL script identifies **Windows devices that are not currently onboarded into Microsoft Defender for Endpoint (MDE)** but have been active recently — making them strong candidates for onboarding.
 
 ---
 
