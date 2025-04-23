@@ -10,7 +10,6 @@ This query does the following:
 - Extracts the latest ASR rule state per onboarded Windows device
 - Parses ASR configuration settings from the `AdditionalFields` JSON
 - Joins rule metadata for friendly descriptions
-- **Filters device names to those containing both `-w-` and `-l-`**
 - Pivots the result by rule description to show a per-device view
 
 ---
