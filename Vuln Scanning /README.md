@@ -1,0 +1,10 @@
+## The databases listed below hold significant importance when it comes to vulnerability scanning.
+
+scipvuldb.csv - https://vuldb.com
+cve.csv - https://cve.mitre.org
+securityfocus.csv - https://www.securityfocus.com/bid/
+xforce.csv - https://exchange.xforce.ibmcloud.com/
+expliotdb.csv - https://www.exploit-db.com
+openvas.csv - http://www.openvas.org
+securitytracker.csv - https://www.securitytracker.com (end-of-life)
+osvdb.csv - http://www.osvdb.org (end-of-life)
