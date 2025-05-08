@@ -1,6 +1,7 @@
 # Filtered ASR Rules Overview for Windows Devices
 
 This Kusto Query Language (KQL) script retrieves and pivots **Attack Surface Reduction (ASR) rule configurations** from Microsoft Defender for Endpoint data. It filters results to only include **Windows devices**.
+
 ---
 
 ##  Description
