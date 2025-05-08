@@ -22,10 +22,9 @@ DeviceFileEvents
     AlertEvidence
     | where FileHash == fileHash
     | project AlertId, DeviceName, FileHash
-) on DeviceName
+) on DeviceNameS
 | join kind=inner (
     AlertInfo
     | project AlertId, Title, Severity, Category, StartTime, EndTime
 ) on AlertId
 | sort by Timestamp desc
-
