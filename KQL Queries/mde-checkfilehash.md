@@ -4,7 +4,7 @@ This query checks your environment for a specific file hash and gathers all rela
 
 ---
 
-##  Description
+## Description
 
 This query does the following:
 - Finds file activity for a specific file hash in the DeviceFileEvents table, matching against SHA256, SHA1, or MD5 hashes.
